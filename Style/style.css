@@ -1,0 +1,21 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: orange;
+}
+
+ul > li > a:hover {
+  color: orange;
+}
+
+ul > li > a {
+  color: black;
+  text-decoration: none;
+}
+
+ul,
+p {
+  font-size: large;
+}
